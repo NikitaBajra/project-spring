@@ -1,0 +1,32 @@
+@CHARSET "UTF-8";
+<style type="text/css">
+  body {
+    color: black;
+    background-color: #f0b3ff; }
+  
+  h1{
+   
+   font-variant: small-caps;
+   text-align: center;
+}
+h3{
+  font-variant: small-caps;
+  color: black;
+  font-family: cursive;
+
+}
+h6{
+  color: red;
+  
+}
+h5{
+
+  color: blue;
+
+}
+h4{
+  font-variant: small-caps;
+  color: black;
+}
+
+</style>

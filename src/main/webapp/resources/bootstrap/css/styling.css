@@ -1,0 +1,46 @@
+<style type="text/css">
+.center {
+	margin-left: auto;
+	margin-right: auto;
+	width: 70%;
+	background-color: #C0C0C0;
+}
+
+form.button{
+
+	}
+h3{
+  font-variant: small-caps;
+  color:black;
+  font-family: cursive;
+}
+h1{
+  text-align: center;
+  font-variant: small-caps;
+}
+body{
+  color: black;
+  background-color:#f0b3ff;
+/*#ffe6cc*/
+/*#ffff99*/
+}
+div.item img{
+   border-radius: 80px;
+    width: 100%;
+    height: auto;
+
+
+}
+p{
+  font-variant: small-caps;
+  font-size: 200%;
+  text-align: center;
+  color: black;
+
+}
+div{
+  background-color:#f0b3ff;
+}
+
+
+</style>
